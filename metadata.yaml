@@ -1,0 +1,13 @@
+name: astrbot_plugin_help_image
+desc: 接收 help 指令后发送自定义帮助图片。
+help: |-
+  发送 /help 可获取自定义帮助图片。
+  图片文件位于插件目录的 images/custom_help.jpg 或 images/custom_help.png。
+version: 1.0.0
+author: LiYH2008
+repo: https://github.com/LiYH2008/astrbot_plugin_help_image
+support_platforms:
+  - aiocqhttp
+  - misskey
+  - telegram
+astrbot_version: ">=4.17.0"
