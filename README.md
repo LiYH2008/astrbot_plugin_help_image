@@ -110,3 +110,7 @@ astrbot_plugin_help_image/images/custom_help.jpg
 - 仓库：<https://github.com/LiYH2008/astrbot_plugin_help_image>
 
 这些字段使用 AstrBot 官方插件开发文档定义的 `support_platforms` 与 `astrbot_version` 字段。
+
+## 许可证
+
+本项目采用 [GNU Affero General Public License v3.0 or later](LICENSE)（AGPL-3.0-or-later）许可证，完整条款见 [LICENSE](LICENSE)。
